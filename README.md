@@ -2,7 +2,7 @@
 
 C implementation of the examples in 
 
-[2] M. Fauß, M. S. Stein, and H. V. Poor, "On Optimal Quantization in Sequential Detection."
+M. Fauß, M. S. Stein, and H. V. Poor, "On Optimal Quantization in Sequential Detection."
 
 ### Build Requirements
 - C Math Library \<math.h\>
